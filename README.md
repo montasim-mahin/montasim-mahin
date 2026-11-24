@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hi there, I'm Montasim Kabir Mahin 👋
-  ### Full-Stack Software Engineer & Distributed/AI Systems Researcher
+  ### Full-Stack Developer & AI Systems Researcher
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montasim-kabir-mahin-646650249/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/montasim-mahin)
@@ -120,8 +120,8 @@
     </tr>
     <tr>
       <td>
-        <strong>🌾 Multimodal Paddy Disease Diagnostic</strong><br>
-        <sub>Agrarian Deep Learning Computer Vision</sub>
+        <strong>🌾 Multimodal Paddy Disease Diagnostic / Agri-RAG</strong><br>
+        <sub>Agrarian Deep Learning Computer Vision & RAG Advisory</sub>
       </td>
       <td>
         - Dual-stream CNN lesion classifier with Grad-CAM explainability<br>
